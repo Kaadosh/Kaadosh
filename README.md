@@ -5,7 +5,7 @@
 
 ---
 
-# Hello everyone! I am Alexander.
+# Hello everyone! I am Alexandr.
  
 ### :man_technologist: About Me : 
 
